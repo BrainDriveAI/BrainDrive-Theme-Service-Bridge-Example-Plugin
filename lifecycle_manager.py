@@ -101,7 +101,7 @@ class ServiceExampleThemeLifecycleManager(BaseLifecycleManager):
         self.plugin_data = {
             "name": "ServiceExample_Theme",
             "description": "Simple example demonstrating Theme Service usage for theme management and switching",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "type": "frontend",
             "icon": "Palette",
             "category": "examples",
@@ -116,8 +116,8 @@ class ServiceExampleThemeLifecycleManager(BaseLifecycleManager):
             "plugin_slug": "ServiceExample_Theme",
             # Update tracking fields (matching plugin model)
             "source_type": "github",
-            "source_url": "https://github.com/DJJones66/ServiceExample_Theme",
-            "update_check_url": "https://api.github.com/repos/DJJones66/ServiceExample_Theme/releases/latest",
+            "source_url": "https://github.com/BrainDriveAI/BrainDrive-Theme-Service-Bridge-Example-Plugin",
+            "update_check_url": "https://api.github.com/repos/BrainDriveAI/BrainDrive-Theme-Service-Bridge-Example-Plugin/releases/latest",
             "last_update_check": None,
             "update_available": False,
             "latest_version": None,

@@ -1,6 +1,6 @@
 {
   "name": "service-example-theme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "BrainDrive ServiceExample_Theme - Demonstrates Theme Service Bridge usage for theme management and switching",
   "main": "dist/remoteEntry.js",
   "scripts": {
